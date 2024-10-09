@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on application integration
 - 🌱 I’m currently learning elixir phoenix framework
-- 👯 I’m looking to collaborate on game development using elixir
+- 👯 I’m looking to collaborate on mini game development using elixir
 - 🤔 I’m looking for help with low budget system design
 - 📫 How to reach me: i@hashkrish.com
 
